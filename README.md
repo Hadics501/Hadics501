@@ -1,0 +1,4 @@
+- Hi, I’m @Hadics501
+- I am currently a student at purdue
+- I amstudying CyberSecurity and Electrical Engineering Technology
+- I am looking to expand my knowlage in Network Engineering and Programming
